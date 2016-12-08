@@ -1,2 +1,3 @@
 # hello_world
-trhis i s a long project
+this i s a long project
+so this is end of this pro
